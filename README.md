@@ -30,5 +30,4 @@
 ---
 
 ### 📫 Connect with me
-* **Email:** [ใส่อีเมลของคุณ]
-* **LinkedIn:** [ใส่ลิงก์ LinkedIn ถ้ามี]
+* **Email:** [nong540413@gmail.com]
