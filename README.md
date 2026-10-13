@@ -34,4 +34,4 @@
 ---
 
 ### 📫 Connect with me
-* **Email:** [nong540413@gmail.com]
+* **Email:** nong540413@gmail.com
